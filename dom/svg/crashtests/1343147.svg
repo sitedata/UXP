@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-<style>
-<![CDATA[
-  svg {
-    background-image: linear-gradient(lime, lime);
-    background-clip: text;
-  }
-  text { transform: skewy(30grad); }
-  g { perspective: 0; }
-]]>
-</style>
-  <g><text>hello</text></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg"><style>svg{background-image:linear-gradient(#0f0,#0f0);background-clip:text}text{transform:skewy(30grad)}g{perspective:0}</style><g><text>hello</text></g></svg>
